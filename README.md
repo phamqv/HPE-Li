@@ -107,6 +107,17 @@ Thanks to the original authors for their work!
 Please cite this work if you find it useful.
 
 ```
+@ARTICLE{gian2026mltimodal,
+  author={Gian, Toan D. and Tran, Dung T. and Pham, Quoc-Viet and Tran, Le-Nam and Nguyen, Van-Dinh},
+  journal={IEEE Transactions on Artificial Intelligence}, 
+  title={Multimodal Human Pose Estimation: A Wi-Fi-Driven Approach With Adaptive Kernel Selection}, 
+  year={2026},
+  volume={7},
+  number={5},
+  pages={2941-2955},
+  doi={10.1109/TAI.2025.3631005}
+}
+
 @inproceedings{d2024hpe,
   title={Hpe-li: Wifi-enabled lightweight dual selective kernel convolution for human pose estimation},
   author={D. Gian, Toan and Dac Lai, Tien and Van Luong, Thien and Wong, Kok-Seng and Nguyen, Van-Dinh},
